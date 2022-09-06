@@ -9,3 +9,5 @@ Weds 31 2022,
 9am Started
 worked and finished #3 problem
 9:30 stopped
+Mon 6 September 2022,
+2 hour mongo Recap
