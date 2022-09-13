@@ -11,3 +11,6 @@ worked and finished #3 problem
 9:30 stopped
 Mon 6 September 2022,
 2 hour mongo Recap
+Mon 12, sep 2022,
+3 hour coding codewars. Finished up to #9
+all problems solved.
