@@ -14,3 +14,7 @@ Mon 6 September 2022,
 Mon 12, sep 2022,
 3 hour coding codewars. Finished up to #9
 all problems solved.
+Wednesday 14, Sep 22
+1 hour code mock interview. 4 hour fullstack app work time. React, mongo practice.
+Thursday 15, Sep
+7am-8am Mern APP work.
